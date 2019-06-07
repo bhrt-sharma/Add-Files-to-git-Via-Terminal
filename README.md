@@ -31,6 +31,7 @@ Step 6: Now we can add these file to git locally
         git add test.txt
         
 Step 7: Config your git
+
         git config user.email "enter your email here"
         git config user.name "enter your user name here"
         
