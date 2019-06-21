@@ -45,7 +45,7 @@ Step 9 : Now bind your local repo to the actual git on web
 
 Step 10 : Final step is to push this local repo to the binded repo on web
   
-        git remote add origin https://github.com/bhrt-sharma/test.git
+        git push -u origin master
 
         -- You will be promted to provide your UserName
         -- and finally your Password 
